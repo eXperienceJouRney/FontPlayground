@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Font Playground 原生排版实验台"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "创作、保存并下载你的排版作品"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Font Playground"
+    }
+  ]
+}
